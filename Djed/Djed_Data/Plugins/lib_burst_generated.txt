@@ -1,0 +1,10 @@
+--platform=Windows
+--backend=burst-llvm
+--target=X86_SSE4
+--noalias
+--dump=Function
+--float-precision=Standard
+--output=C:\Game Downloading\Djed\Temp\StagingArea\Data\Plugins\lib_burst_generated
+--assembly-folder=C:\Game Downloading\Djed\Temp\StagingArea\Data\Managed\
+--method=Unity.Jobs.IJobExtensions+JobStruct`1[[LocalToWorldJob+LocalToWorldConvertJob, WaterSystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(LocalToWorldJob+LocalToWorldConvertJob&, WaterSystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--392c17bf5b0f413fcdcf3107bb292d31
+--method=Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[WaterSystem.GerstnerWavesJobs+HeightJob, WaterSystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(WaterSystem.GerstnerWavesJobs+HeightJob&, WaterSystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--fa61d5553dd67e91a85c3020bb6038be
